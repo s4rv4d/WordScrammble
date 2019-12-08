@@ -13,6 +13,7 @@
 		40177B202398953900B9800B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40177B1F2398953900B9800B /* Assets.xcassets */; };
 		40177B232398953900B9800B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40177B222398953900B9800B /* Preview Assets.xcassets */; };
 		40177B262398953900B9800B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40177B242398953900B9800B /* LaunchScreen.storyboard */; };
+		4091D0E9239CD6B400A29973 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4091D0E8239CD6B400A29973 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		40177B222398953900B9800B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		40177B252398953900B9800B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		40177B272398953900B9800B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4091D0E8239CD6B400A29973 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				40177B192398953600B9800B /* AppDelegate.swift */,
 				40177B1B2398953600B9800B /* SceneDelegate.swift */,
+				4091D0E8239CD6B400A29973 /* start.txt */,
 				40177B1D2398953600B9800B /* ContentView.swift */,
 				40177B1F2398953900B9800B /* Assets.xcassets */,
 				40177B242398953900B9800B /* LaunchScreen.storyboard */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40177B262398953900B9800B /* LaunchScreen.storyboard in Resources */,
+				4091D0E9239CD6B400A29973 /* start.txt in Resources */,
 				40177B232398953900B9800B /* Preview Assets.xcassets in Resources */,
 				40177B202398953900B9800B /* Assets.xcassets in Resources */,
 			);
